@@ -9,12 +9,12 @@ In recent years, I am focusing on Blockchain Cryptocurrency projects. DeFi is my
 
 ### MSIF
 
-<img src="./deliveroo.png" alt="Deliveroo" width="100%" />
-<img src="./deliveroo.png" alt="Deliveroo" width="100%" />
+<img src="./images/map.png" alt="MSIF - Map" width="100%" />
+<img src="./images/chart.png" alt="MSIF - Chart" width="100%" />
 
 ### Deliveroo
 
-<img src="./deliveroo.png" alt="Deliveroo" width="100%" />
+<img src="./images/deliveroo.png" alt="Deliveroo" width="100%" />
 
 ## Experienced Areas
 - Javascript/Typescript, PHP, Python, C#, C/C++
