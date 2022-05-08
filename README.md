@@ -12,8 +12,8 @@ In recent years, I am focusing on Blockchain Cryptocurrency projects. DeFi is my
 <img src="./deliveroo.png" alt="Deliveroo" width="100%" />
 
 ## Experienced Areas
-- Javascript/Typescript App Development
-- Web Development: React.js, Angular.js, Next.js, Node.js, PHP, Python, C#, C/C++,
+- Javascript/Typescript, PHP, Python, C#, C/C++
+- Web Development: React.js, Angular.js, Next.js, Node.js, Laravel, Django, etc
 - Hybrid Mobile App Development: React Native, Ionic, NativeScript
 - Blockchain: Ethereum, Bitcoin, SiaCoin, Smart Contract, ERC20/ERC721 Token, Defi, Uniswap, DEX, dApp, Web3, Ethers.js, Truffle, Waffle, HardHat
 - CI/CD & Automated Testing: Unit Testing & E2E Testing
