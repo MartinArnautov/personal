@@ -7,6 +7,10 @@ In recent years, I am focusing on Blockchain Cryptocurrency projects. DeFi is my
 
 ## Portfolio
 
+### Kryptomon
+
+<img src="./images/kryptomon.png" alt="Kryptomon" width="100%" />
+
 ### MSIF
 
 <img src="./images/map.png" alt="MSIF - Map" width="100%" />
