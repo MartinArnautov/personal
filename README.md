@@ -7,16 +7,16 @@ In recent years, I am focusing on Blockchain Cryptocurrency projects. DeFi is my
 
 ## Portfolio
 
-### Kryptomon
+### Kryptomon - Blockchain
 
 <img src="./images/kryptomon.png" alt="Kryptomon" width="100%" />
 
-### MSIF
+### MSIF - Web/PHP/React/Nivo
 
 <img src="./images/map.png" alt="MSIF - Map" width="100%" />
 <img src="./images/chart.png" alt="MSIF - Chart" width="100%" />
 
-### Deliveroo
+### Deliveroo - Mobile/React Native
 
 <img src="./images/deliveroo.png" alt="Deliveroo" width="100%" />
 
