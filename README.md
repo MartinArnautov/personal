@@ -1,4 +1,4 @@
-# Full Stack Developer - React Native & Ionic & React
+# Full Stack Developer - React Native & React & Ionic
 
 I have more than 10 years of experience in software application development using Javascript/Typescript, Python, C/C++, C#, and PHP.
 Since 2011, I have being worked on software applications and participated in several startups and companies to implement their business ideas. I am very skilled in web and mobile application development and have good working experiences for them. Especially I am very experienced in Javascript/Typescript and I have special background in JS-based frameworks including React.js, React Native, Angular.js, Ionic, etc.
