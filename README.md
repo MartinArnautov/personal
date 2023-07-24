@@ -3,7 +3,7 @@
 I have more than 10 years of experience in software application development using Javascript/Typescript, Python, C/C++, C#, and PHP.
 Since 2011, I have being worked on software applications and participated in several startups and companies to implement their business ideas. I am very skilled in web and mobile application development and have good working experiences for them. Especially I am very experienced in Javascript/Typescript and I have special background in JS-based frameworks including React.js, React Native, Angular.js, Ionic, etc.
 
-In recent years, I am also focusing on Blockchain Cryptocurrency projects. DeFi is my passion and I have developed several DeFi products such as wrapped coin and stablecoin on Ethereum and Tron. I have deep knowledge and strong experience with 0x, AMP, MakerDAO, Uniswap protocols and Solidity, truffle, Waffle, HardHat.
+In recent years, I am also focusing on Cryptocurrency projects. DeFi is my passion and I have developed several DeFi products such as wrapped coin and stablecoin on Ethereum and Tron. I have deep knowledge and strong experience with 0x, AMP, MakerDAO, Uniswap protocols and Solidity, truffle, Waffle, HardHat.
 
 ## Experienced Areas
 - Javascript/Typescript
