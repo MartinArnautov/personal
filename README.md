@@ -1,14 +1,15 @@
 # Full Stack Developer
 
 I have more than 10 years of experience in software application development using Javascript/Typescript, Python, C/C++, C#, and PHP.
-Since 2011, I have being worked on software applications and participated in several startups and companies to implement their business ideas. I am very skilled in web and mobile application development and have good working experiences for them. Especially I am very experienced in Javascript/Typescript and I have special background in JS-based frameworks including React.js, React Native, Angular.js, Ionic, etc.
+Since 2011, I have being worked on software applications and participated in several startups and companies to implement their business ideas. I am very skilled in web and mobile application development and have good working experiences for them. Especially I am very experienced in Javascript/Typescript and I have special background in JS-based frameworks including React.js, React Native, Vue, Angular.js, Ionic, etc.
 
 In recent years, I am also focusing on Cryptocurrency projects. DeFi is my passion and I have developed several DeFi products such as wrapped coin and stablecoin on Ethereum and Tron. I have deep knowledge and strong experience with 0x, AMP, MakerDAO, Uniswap protocols and Solidity, truffle, Waffle, HardHat.
 
 ## Experienced Areas
+- PHP/Laravel
 - Javascript/Typescript
-- Hybrid Mobile App Development: React Native, Ionic
-- Web Development: React.js, Angular.js, Node.js
+- Hybrid Mobile App Development: React Native, Vue Native, Ionic
+- Web Development: React.js, Vue.js, Angular.js, Node.js
 - CI/CD & Automated Testing: Unit Testing & E2E Testing
 - Cloud Services: Firebase, AWS, Alibaba, Airtable, etc
 - 3rd Party SDK: Stripe, Twilio, MailChimp, SendGrid, Google, Twitter, Facebook, Linkedin
